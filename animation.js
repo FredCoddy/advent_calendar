@@ -6,6 +6,7 @@
 
  $(".tile").click(function(){
     console.log("coucou");
+    $(this).css('background-color', '#a1b0c9');
  });
 
- $("tile").cursor("isHover");
+ 
