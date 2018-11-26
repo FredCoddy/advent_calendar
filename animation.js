@@ -9,4 +9,7 @@
     $(this).css('background-color', '#a1b0c9');
  });
 
- 
+
+ $('.tile').tilt({
+   scale: 1.1
+})
