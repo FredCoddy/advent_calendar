@@ -1,20 +1,24 @@
-<center>
 
-# ADVENT CALENDAR 
+# ADVENT CALENDAR 🎄🎅🤶🎄 
 
 JUNG Frédéric : frederic.jung@etu.u-bordeaux.fr
 
-</center>
+## Tutorial: develop a christmas calendar.
 
-**Exercice de tutorat :** réaliser un calendrier de l'avant 
+Purpose of this exercise:
 
-Cet exercice est tombé à la **nuit de l'info** l'année dernière.
+- implement JavaScript events 
+- use code versionning tools
+- learn to use web CSS/JavaScript libraries
 
-Correction disponnible ici : https://fredcoddy.github.io/advent_calendar/
+This exercice is typical [nuit de l'info](https://www.nuitdelinfo.com/) contest project. Feel free to create your own advent calendar using your favorite CSS/JavaScript libraries.
 
+My own calendar: https://fredcoddy.github.io/advent_calendar/
+
+![advent calendar giff](images/advent_calendar.gif)
 _______
 
-## Library utilisées :
+## Dependencies:
 
 - [Tilt JS](https://gijsroge.github.io/tilt.js/)
 - [JQuery](https://jquery.com/)
